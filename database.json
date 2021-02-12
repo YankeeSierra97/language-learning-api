@@ -1,0 +1,68 @@
+{
+    "frenchgerman": 
+        {
+          "id": 0,
+          "goal_language": "french",
+          "comfy_language": "german",
+           "category":
+           
+            { 
+              "greetings": [
+                   {
+                    "french": "Bonjour",
+                    "german": "Guten Tag",
+                    "example_french": "Bonjour, les amis.",
+                    "example_german": "Hallo Freunde.",
+                    "german_synonym": 
+                        {
+                            "1": "Grüß Gott",
+                            "2": "Hallo"
+                        }
+                   },
+                   {
+                    "french": "Au revoir",
+                    "german": "Auf Wiedersehen",
+                    "example_french": "/",
+                    "example_german": "/",
+                    "german_synonym": 
+                        {
+                            "1": "Tschüss",
+                            "2": "Auf Wiederhören(am Telefon)"
+                        }
+                   }
+                        ],
+                "family": [
+                  {
+                    "french": "La soeur",
+                    "german": "Die Schwester",
+                    "example_french": "/",
+                    "example_german": "/",
+                    "german_synonym": 
+                        {
+                            "1": "/",
+                            "2": "/"
+                        }
+                  },
+                  {
+                    "french": "Le frère",
+                    "german": "Der Bruder",
+                    "example_french": "/",
+                    "example_german": "/",
+                    "german_synonym": 
+                        {
+                            "1": "/",
+                            "2": "/"
+                        }
+                  }
+                  
+                          ]
+            }
+                         
+        },
+        "spanishgerman": 
+        {
+          "id": 1,
+          "goal_language": "spanish",
+          "comfy_language": "german"
+    }
+    }
